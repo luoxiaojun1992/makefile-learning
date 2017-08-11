@@ -1,3 +1,4 @@
+# 宏引用
 CC=gcc
 
 helloworld:test.o
